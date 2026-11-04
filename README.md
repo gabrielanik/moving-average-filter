@@ -45,7 +45,7 @@ This allows changes in the audio signal to be observed directly through the LED 
 
 ## Hardware
 
-- **Texas Instruments Tiva™ C Series TM4C123G LaunchPad** — development board featuring the TM4C123G microcontroller
+- **Texas Instruments Tiva™ C Series TM4C123G LaunchPad** — development board featuring the TM4C123GH6PM microcontroller
 - **8 LEDs** for volume visualization
 - Breadboard-based electronic circuit
 - External audio device for music playback
